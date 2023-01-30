@@ -2,7 +2,7 @@
 Snapshot in to my  education, qualifications, previous jobs, and  personal interests.
 # **RONNITH NANDY**
 
-\|** [ronnith.nandy@cs.ox.ac.uk](mailto:ronnith.nandy@cs.ox.ac.uk) **\|\|** [LinkedIn](http://www.linkedin.com/in/ronnithnandy) **\|\|** [GitHub](https://github.com/ronnith24) **\|\|** [ICPCID](https://icpc.global/ICPCID/969AUCNLMPJ9) **\|\|**  C++, Python, Java
+ [ronnith.nandy@cs.ox.ac.uk](mailto:ronnith.nandy@cs.ox.ac.uk) **\|\|** [LinkedIn](http://www.linkedin.com/in/ronnithnandy) **\|\|** [GitHub](https://github.com/ronnith24) **\|\|** [ICPCID](https://icpc.global/ICPCID/969AUCNLMPJ9) **\|\|**  C++, Python, Java
 
 **EDUCATION**
 
