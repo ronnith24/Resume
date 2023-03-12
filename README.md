@@ -102,7 +102,7 @@ Developed Sudoku24 which randomly generates a new sudoku board every time a new 
 
 **CODING PROFILES**
 
-Leetcode**:** [**ronnith**](https://leetcode.com/ronnith/) \| Highest Rating - 2534 (Guardian) 
+Leetcode: [**ronnith**](https://leetcode.com/ronnith/) \| Highest Rating - 2534 (Guardian) 
 
 CodeChef: [**ronnith24**](https://www.codechef.com/users/ronnith) \| Highest Rating - 2235 (6 Star)
 
