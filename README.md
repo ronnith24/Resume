@@ -6,9 +6,9 @@ Snapshot in to my  education, qualifications, previous jobs, and  personal inter
 
 **EDUCATION**
 
--   **First Year** -**BA Computer Science [Hons]   University of Oxford** Oct 2022- July 2025
+-   **Penultimate Year** -**BA Computer Science [Hons]   University of Oxford** Oct 2022- July 2025
 
-    **1st Term Coursework:** Discrete Mathematics \| Functional programming \| Linear Algebra \| Probability
+    **1st Year Coursework:** Discrete Mathematics \| Functional programming \| Linear Algebra \| Probability \| Imperative Programming \| Design & Analysis of Algorithms \| Continuous Mathematics \| Digital System \| Introduction to Formal Proof
 
 -   **ISC -Indian School Certificate Examination** (CISCE) Grade XII **South City International School** June-2022
 
@@ -20,17 +20,14 @@ Snapshot in to my  education, qualifications, previous jobs, and  personal inter
 
 **EXPERIENCE**
 
--   **Contestant Coach**  **ACM** **Inter Collegiate Programming Contest (ICPC)** October 2022
+-   **Software Development Intern**  **Ocado Technology** **United Kingdom** July 2023
 
-    **Team:**  ForTheAnnes [3 members]
+    **Responsibilities:** Worked as a core team member of the Deployment Service Team contributing to code reviews and retrospectives.
 
-    **Responsibilities:** Collaborated and Developed teams’ strategy in 2 Weeks to participate in ICPC Sub-regionals 2022.
+ -   **Amazon Discover: Spring Technology Participant** **Amazon UK**  June 2023
+      
+   **Responsibilities:** Learned & Implemented HashMap, DFS &BFS.Completed a mini project in a pair using Test Driven Development 
 
-    **Results:** In UKIEPC 2022, we as a team solved 8/ 12 problems and ranked \#23 amongst 150 teams in UK.
-
--   **Teaching Assistant & Mentor** [**Program in Algorithmic & Combinatorial Thinking**](https://algorithmicthinking.org/) -PACT July 2022
-
-    **Responsibilities:** Graded 250 Weekly Problem sets for Discrete Maths Assignments **\|** Lead and mentored 6 participants.
 
 **CODING COMPETITION ACCOMPLISHMENTS**
 
@@ -93,6 +90,20 @@ Developed Sudoku24 which randomly generates a new sudoku board every time a new 
 8.  Mathematics for Machine Learning: [**Linear Algebra**](https://www.coursera.org/account/accomplishments/certificate/BZ8K5RGY6TES)
 9.  [**Mathematical Thinking**](https://www.coursera.org/account/accomplishments/certificate/CHUKSZUEG9QQ) **\|** Stanford University
 10. Functional Programming in [**Haskell**](https://www.futurelearn.com/certificates/fn7gnop)
+
+**Positions of Responsibility**
+
+-   **Contestant Coach**  **ACM** **Inter Collegiate Programming Contest (ICPC)** October 2022
+
+    **Team:**  ForTheAnnes [3 members]
+
+    **Responsibilities:** Collaborated and Developed teams’ strategy in 2 Weeks to participate in ICPC Sub-regionals 2022.
+
+    **Results:** In UKIEPC 2022, we as a team solved 8/ 12 problems and ranked \#23 amongst 150 teams in UK.
+
+-   **Teaching Assistant & Mentor** [**Program in Algorithmic & Combinatorial Thinking**](https://algorithmicthinking.org/) -PACT July 2022
+
+    **Responsibilities:** Graded 250 Weekly Problem sets for Discrete Maths Assignments **\|** Lead and mentored 6 participants.
 
 **SKILLS**
 
