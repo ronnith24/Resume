@@ -9,6 +9,7 @@ Snapshot in to my  education, qualifications, previous jobs, and  personal inter
 -   **Penultimate Year** -**BA Computer Science [Hons]   University of Oxford** Oct 2022- July 2025
 
     **1st Year Coursework:** Discrete Mathematics \| Functional programming \| Linear Algebra \| Probability \| Imperative Programming \| Design & Analysis of Algorithms \| Continuous Mathematics \| Digital System \| Introduction to Formal Proof
+    Year 1 Grade: First class with Distinction || Academic Award: Full Collections Prize 
 
 -   **ISC -Indian School Certificate Examination** (CISCE) Grade XII **South City International School** June-2022
 
