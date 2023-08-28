@@ -115,15 +115,15 @@ Developed Sudoku24 which randomly generates a new sudoku board every time a new 
 
 **CODING PROFILES**
 
-Leetcode: [**ronnith**](https://leetcode.com/ronnith/) \| Highest Rating - 2534 (Guardian) 
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)  [**ronnith**](https://leetcode.com/ronnith/) \| Highest Rating - 2534 (Guardian) 
 
-CodeChef: [**ronnith24**](https://www.codechef.com/users/ronnith) \| Highest Rating - 2235 (6 Star)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)  [**ronnith24**](https://www.codechef.com/users/ronnith) \| Highest Rating - 2235 (6 Star)
 
-Codeforces: [**Ronnith**](https://codeforces.com/profile/ronnith)\| Highest Rating-1947(Candidate Master) 
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)  [**Ronnith**](https://codeforces.com/profile/ronnith)\| Highest Rating-1947(Candidate Master) 
 
-HackerRank: [**ronnith**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) \| 5\* Problem Solver Gold level
+![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)  [**ronnith**](https://www.hackerrank.com/ronnith?h_r=internal-search&hr_r=1) \| 5\* Problem Solver Gold level
 
-Code Signal: [**General Coding Assessment**](https://app.codesignal.com/coding-report/DLuJpR32HPK5h69MP-B4dEEqn5mdz8K8z5Gk98W5we/LJhi8EuMudwkCtEKX) \|\| Score: 845/850 \|\| Level: 10
+**CODESIGNAL**  [**General Coding Assessment**](https://app.codesignal.com/coding-report/DLuJpR32HPK5h69MP-B4dEEqn5mdz8K8z5Gk98W5we/LJhi8EuMudwkCtEKX) \|\| Score: 600/600 \|\| Level: 10
 
 **CLUBS & SOCIETYS**
 
