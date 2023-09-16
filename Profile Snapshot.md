@@ -5,7 +5,7 @@ Ronnith Nandy is an exceptional Penultimate Year BA Computer Science Honors stud
 
 ## Education
 
-Ronnith's academic journey is nothing short of impressive. In the first year at the University of Oxford, he achieved a First-Class grade with distinction, ranking 6th in his year group. His coursework spans a diverse range of topics, including Discrete Mathematics, Functional Programming, Linear Algebra, and more. His exceptional GPA of 4.0 (79.33%) reflects his dedication to excellence.
+Ronnith's academic journey is nothing short of impressive. In the first year at the University of Oxford, he achieved a First-Class grade with distinction, ranking 6th in his year group. His coursework spans a diverse range of topics, including Discrete Mathematics, Functional Programming, Linear Algebra, and more. His exceptional GPA of 4.0  reflects his dedication to excellence.
 
 ## Work Experience
 
