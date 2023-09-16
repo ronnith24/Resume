@@ -34,10 +34,10 @@ Snapshot in to my  education, qualifications, previous jobs, and  personal inter
 **CODING COMPETITION ACCOMPLISHMENTS**
 
 -   Winner ["**Top Indian School Programmer**"](https://www.codechef.com/certificates/public/768e44e) among 37000 in CodeChef SnackDown 2021
--   Global Rank 48 /5550-Google [**KickStart**](https://codingcompetitions.withgoogle.com/kickstart/certificate/summary/0000000000435bad) 21 Round H
+-   Global Rank 48 /5550-Google [**KickStart**](https://drive.google.com/file/d/1DIlbrWPrPE8GrD8JLbdUngR6tEh8M08v/view?usp=sharing) 21 Round H
 -   Global Top 2000 in [**Meta Hacker Cup**](https://www.facebook.com/codingcompetitions/hacker-cup/2022/certificate/209679514373388) 2022 Round 2
--   Global Rank 1121/3400- [**Google Code Jam**](https://codingcompetitions.withgoogle.com/codejam/certificate/summary/0000000000877249) 2022 Round 2
--   Full score 100 -Google [**KickStart 22**](https://codingcompetitions.withgoogle.com/kickstart/round/00000000008cb4d1) in Round C, D & E
+-   Global Rank 1121/3400- [**Google Code Jam**](https://drive.google.com/file/d/1AoIGKtOer7xb1XWMoVgk9Hco6iD7cQl9/view?usp=sharing) 2022 Round 2
+-   Full score 100 -Google [**KickStart 22**](https://drive.google.com/file/d/1ge1R1jB4oFNYBYADQubXnBPcSGtZxXth/view?usp=sharing) in Round C, D & E
 -   Global Rank 1026/6789 [**Facebook Hacker Cup**](https://www.facebook.com/codingcompetitions/hacker-cup/2021/certificate/209679514373388)-21 Round 2
 -   International Olympiad in Informatics Training Camp ([**IOITC**](https://www.iarcs.org.in/inoi/2021/inoi2021/results_inoi2021.php)) India,2021 & 22 Finalist (top 35 Indians students)
 -   Global Rank 1/2290 [**Canadian Computing Competition**](https://drive.google.com/file/d/1ljfm2eve39UMUK5j75w1qgFD43U7bgqu/view?usp=sharing)
