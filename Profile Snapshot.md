@@ -1,6 +1,5 @@
 🧑‍💻 Ronnith Nandy: Software Developer Intern
 
-![Header Image](https://drive.google.com/file/d/1XOhep7WqMqSFhVUhEWnI-SpqufZqQZUA/view?usp=sharing)
 
 Ronnith Nandy is an exceptional Penultimate Year BA Computer Science Honors student at the prestigious University of Oxford, consistently demonstrating remarkable academic prowess and a passion for technology. With a strong foundation in various programming languages, a wealth of experience in internships and coding competitions, and a commitment to excellence, Ronnith stands out as an outstanding Software Developer Intern.
 
